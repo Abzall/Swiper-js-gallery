@@ -35,6 +35,7 @@ html, body {
 	margin-bottom: calc(var(--index) * 2.6);
 	cursor: pointer;
 	transition: transform var(--transition);
+	border-radius: 8px;
 	will-change: transform;
 	box-shadow: rgb(0 0 0 / .15) 0 0 30px 10px;
 }
